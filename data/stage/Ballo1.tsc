@@ -1,0 +1,96 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+
+#0095
+<MNA<MYD0002<PRI
+<CMU0039<FAI0002<KEY
+<ANP0100:0000:0000<WAS<END
+
+<CMP0001:0007:0018<SOU0012
+
+#0400
+#0401
+#0402
+
+
+
+
+#0500
+<DNP0500<MYD0002
+<KEY<MSG
+Welcome!<NOD<CLR
+<FAC0029I am Ballos.<NOD<CLR
+Long, long ago I allowed my
+drive for magical power to
+grow recklessly without fear<NOD 
+of enduring any retribution.<NOD<CLR
+A magic so powerful that 
+even its own master was 
+helpless to contain it...<NOD<CLR
+So furious and unstoppable
+was this force...<NOD
+...that its fire consumed the
+child who adored me,<NOD and the
+wife who loved me...<NOD<CLR
+They were swallowed by its 
+flames and suffered dearly.<NOD
+...All because of my selfish
+transgression.<NOD
+My eyes were affixed and I
+was unable to turn away from 
+the fiery horror...<NOD 
+Created with my own magic.<NOD<CLR
+I could only laugh then...<NOD<CLR
+Jenka sealed me away, with my
+magic raging more violently
+with each passing minute.<NOD<CLR
+I've waited long for this...<NOD<CLR
+For the person who will
+bring my immense magical
+fury to its end...<NOD<CLR
+Now, kill me!<NOD
+Or--<NOD<CLR
+I WILL KILL YOU!!!<NOD<CLO
+<CMU0004
+<ANP0402:0100:0900<FON0402:0016
+<BSL0900<ANP0900:0010:0000<END
+
+
+
+
+#0900
+<ANP0900:1000:0005
+<FON0900:0016
+<CNP0400:0339:0002
+<CNP0401:0339:0000
+<CMU0000<WAI0300
+<FOM0016<WAI0050
+<BOA0100<WAI0200
+<ANP0402:0100:0000
+<FON0402:0016
+<BOA0200
+<CMU0007<BSL0000
+<END
+
+
+#1000
+<FLJ1600:1001
+<FL+1600
+<CMU0000<BOA0220<WAI0200
+<CMU0032<BOA0300<WAI0050
+<BOA0311<BSL0000<END
+
+#1001
+<KEY<FOB0000:0016
+<BOA1000<WAI0200
+<STC<TRA0091:0110:0000:0000
+

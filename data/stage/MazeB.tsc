@@ -1,0 +1,108 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0099
+<KEY<MNA<CMU0008
+<ANP0200:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0200:0000:0000
+<MYD0000<DNP0301<SMC<END
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0039:0090:0197:0014
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
+
+<KEY<MSG
+Good work!
+This is it for now.
+  2003/09/27 Studio Pixel<NOD<END
+
+#0200
+<KEY<FLJ0744:0201<MS3
+The Power Supply is broken.<NOD<CLR
+An electrician with a certain amount of
+know-how could probably fix it.
+Maybe...<NOD<END
+#0201
+<KEY<MSG
+Teleport to Arthur's house?<YNJ0000<CLO
+<CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
+<WAI0100<FAO0004<TRA0001:0099:0005:0008
+
+#0300
+#0301
+
+#0500
+<KEY<MYD0002<CMU0000<FAI0002<FLA<SOU0029<WAI0050
+<MSG
+?<NOD<CLO<ANP0500:0010:0000<WAI0130<SOU0023<WAI0020<CMU0008
+<FL-0523<FL+0740<DNP0500<END
+
+
+#0501
+<KEY<ITJ0030:0503<FLJ0741:0502
+<MSG
+Uhh...<NOD<CLR<FAC0017
+Oh!<NOD
+Why are you here?!<NOD<CLR
+.....<NOD<CLR
+I see...
+Misery sent you down
+here, too...<NOD<CLR
+Heh...<NOD<CLR
+This might be good luck 
+arising from misfortune.<NOD<CLR
+The thing is...<NOD
+This island floats in the sky
+because of some kind of
+life force.<NOD
+I recently uncovered the
+location of that life force.<NOD<CLR
+Somewhere in this labyrinth...
+lies that life force.<NOD<CLR
+If it can be destroyed,
+then the functions of the
+island might just cease.<NOD<CLR
+Heh...<NOD<CLR
+Right about now I think the
+Doctor should surely be
+in a huge panic...<NOD
+You were sent into the heart
+of this island!<NOD<CLR
+Here, take this.<NOD<CLR<FAC0000<IT+0018<GIT1018
+Obtained Booster v0.8.<NOD<CLR<FAC0017
+This little machine will help you
+fly into the air.<NOD
+You can hover while airborne
+by pressing the jump button.<NOD<CLR
+Use the Sub-Screen to equip
+and unequip the Booster.<NOD<GIT0000<CLR
+Wooo...<NOD<CLR
+I thought I was in big trouble
+the moment I caught air.<NOD
+But, thanks to that, I was
+able to see you...<NOD
+Looks like, with this, I've used
+up my last bit of good fortune.<NOD<CLR
+Best of... luck...<NOD<FL+0741<FL+0834<ANP0501:0020:0000<END
+
+#0502
+<KEY<MSG
+Good luck...<NOD<END
+
+#0503
+<KEY<MSG
+Uuhh...<NOD<END

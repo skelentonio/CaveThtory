@@ -1,0 +1,256 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC0013
+Who are you?<NOD
+I've never seen you around 
+here before, child.<NOD<END
+
+#0201
+<IT-0014
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<KEY<MSG<FAC0013
+Oh, oh!<NOD<CLR<GIT1014
+That's my doggy!<NOD<CLR
+<GIT0000<FAC0000Gave her the Dog.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013
+You've returned him to me.<NOD
+That was very nice of you.<NOD<CLR
+What???<NOD
+The red flower?<NOD<FAC0000<CLR<CMU0000<MSG
+Oh Yeaaah!!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0005
+How you doin' auntie?<NOD<CLR<FAC0013
+Oh, it's you, Balrog.<NOD<ANP0300:0120:0002
+You look good.<NOD
+How's my stupid daughter 
+been lately?<NOD<CLR<FAC0014
+Ha!<NOD
+Stupid daughter...
+You mean Misery?<NOD
+She's also fine.<NOD<CLR
+A new master has appeared.<NOD
+This time, the surface will
+finally be ours!<NOD<CLR<FAC0013
+Are you two still trying to
+do that...<NOD<CLR<FAC0005
+I'm not here to cause you
+any trouble.<NOD
+I just came by to pick up the
+key to the warehouse.<NOD<CLR
+You know, the warehouse with
+the flower seeds!!<NOD<CLR<FAC0013
+.....<NOD<CLR
+Huh...<NOD
+I have no idea what you're
+talking about, Balrog.<NOD<CLR
+<ANP0400:0030:0000<FAC0014Is that so...<NOD<CLR
+You're just pretending that
+you don't know?!?<NOD<CLR<FAC0005
+.....<NOD<CLR
+I see now.<NOD
+You're going to betray us
+then--<NODis that it?<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSG
+You'll be sorry!<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC0013<CNP0300:0130:0000
+A new master...<NOD
+It must be another idiot at it
+yet again.<NOD<MYD0200<CLR
+.....<NOD<CLR
+About my dogs...
+I have four more still.<NOD
+My little pups...<NOD<CLR
+But these legs of mine are
+so very weak.<NOD<CLR
+Sorry for the inconvenience, 
+but would you mind finding 
+the rest of my dogs for me?<NOD<FL+0590<END
+
+#0210
+<KEY<MSG<FAC0013
+Still four left...<NOD
+Sorry for the inconvenience, 
+but please find the rest of
+my dogs for me.<NOD<END
+
+#0211
+<KEY<MSG<FAC0013
+Three more to go.<NOD
+I'm counting on you.<NOD<END
+
+#0212
+<KEY<MSG<FAC0013
+They've really taken a liking
+to you, child.<NOD<CLR
+Two more...<NOD<END
+
+#0213
+<KEY<MSG<FAC0013
+One more...<NOD
+Why don't you give up on
+finding the red flower...<NOD<END
+
+
+#0220
+<KEY<MSG<FAC0013
+You're fast!<NOD<CLR<GIT1014
+This is certainly one of my
+beloved little dogs.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Gave her the Dog.<NOD<CLR<FL-0274<FAC0013
+By the way...<NOD
+You must be a soldier from
+the surface.<NOD<CLR
+.....<NOD<CLR
+It's been a long time since all
+those robots, just like you,
+came to this island.<NOD
+They were responsible for
+the deaths of so many
+defenseless Mimiga...<NOD
+And for the lives of the 
+brave men and women who 
+tried defending the Mimiga.<NOD<CLR
+Due to effects of consuming
+the forbidden red flower...<NOD
+...the cornered Mimiga became 
+utterly rabid.<NOD<CLR
+They fought back viciously 
+against the robots that had
+invaded their island.<NOD<CLR
+Who knows, had there been 
+no red flower, it's very 
+possible that the Mimiga<NOD 
+on this island might have
+been annihilated...<NOD<CLR
+Three more left.<NOD
+I know you can do it.<NOD<FL+0591<END
+
+#0221
+<KEY<MSG<FAC0013
+Oooh.<NOD<CLR<GIT1014
+Definitely.<NOD
+That one's mine.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Gave her the Dog.<NOD<CLR<FL-0274<FAC0013
+Thank you so much.
+This one makes three...<NOD<CLR
+.....<NOD<CLR
+Have you ever seen an
+enraged Mimiga?<NOD<CLR
+"Eating the red flower will 
+make me stronger."<NOD
+A great many of the Mimiga 
+believed this and chose to 
+eat the red flower.<NOD
+Then, and only then did 
+they fight back against the 
+battalions of robots.<NOD<CLR
+But...<NOD<CLR
+Do you know what happens 
+afterwards to a Mimiga 
+filled with such rage???<NOD<CLR
+.....<NOD<CLR
+It was so terrible...<NOD
+Perhaps they couldn't 
+control themselves...<NOD 
+Well, most of the Mimiga who
+consumed the red flower were
+never to be seen again.<NOD<CLR
+They went missing.<NOD<CLR
+I heard a rumor that they
+supposedly made it down to 
+the surface...<NOD
+Where the humans live.<NOD<CLR
+The thought of the enraged
+Mimiga anywhere close to
+the surface...<NOD with humans...<NOD
+If it's really true...<NOD<CLR
+Do you yet realize it?<NOD
+Do you realize how dangerous 
+the red flower actually is? <NOD<CLR
+.....<NOD<CLR
+Two more pups...<NOD<FL+0592<END
+
+#0222
+<KEY<MSG<FAC0013
+You are the popular one!<NOD
+My dogs aren't very fond of 
+troublemakers either...<NOD<CLR<GIT1014
+I really do appreciate all your
+hard work so far.<NOD<CLR
+<GIT0000<FAC0000Gave her the Dog.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013.....<NOD<CLR
+Is it the warehouse key that
+you're after?<NOD
+The same warehouse that 
+contains all the red flower
+seeds in it...<NOD<CLR
+It doesn't matter to me who
+you are, understand?<NOD
+I can't give you the key to
+the warehouse, sorry.<NOD
+Opening the warehouse,<NOD
+that would be foolishly
+allowing an encore of the
+same tragedy from before...<NOD<CLR
+One, two, three and four...<NOD<CLR
+Only one more to go.<NOD<FL+0593<END
+
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+
+#0310
+<KEY<MSG
+Arf!<NOD<END
+#0311
+<KEY<MSG
+Woof woof!<NOD<END
+#0312
+<KEY<MSG
+Bow wow wow!<NOD<END
+#0313
+<KEY<MSG
+Woof woof woof woof!<NOD<END
+#0314
+<KEY<MSG
+Arf woof bow wow wow!<NOD<END
+
+
+#0400
+#0401
+

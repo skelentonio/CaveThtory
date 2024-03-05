@@ -1,0 +1,232 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0000<TRA0056:0090:0072:0084
+
+#0110
+<KEY
+<SOU0011
+<ANP0110:0000:0002<WAI0010<HMC
+<ANP0110:0000:0000
+<MOV0015:0012<WAI0050
+<SOU0011
+<ANP0111:0000:0002<MYD0000<SMC<WAI0010
+<ANP0111:0000:0000<END
+#0111
+<KEY
+<SOU0011
+<ANP0111:0000:0002<WAI0010<HMC
+<ANP0111:0000:0000
+<MOV0015:0007<WAI0050
+<SOU0011
+<ANP0110:0000:0002<MYD0000<SMC<WAI0010
+<ANP0110:0000:0000<END
+
+
+#0200
+<KEY
+<FLJ1103:0212
+<ITJ0027:0211
+<FLJ1102:0206
+<ITJ0029:0210
+<ITJ0028:0209
+<FLJ1101:0208
+<FLJ1106:0204
+<FLJ1100:0201
+<ANP0200:0003:0005<WAI0050
+<ANP0200:0000:0005<WAI0020
+<MSG<FL+1100<FL+0961<FAC0022
+So you're the hero Sue's
+been talking about.<NOD<CLR
+I'm glad...<NOD<CLR
+I'm Momorin Sakamoto.<NOD
+Sue's mother.<NOD
+I took my chance working at
+the Doctor's side.<NOD
+But after the flower seeds 
+were located I was of no
+use to the Doctor.<NOD
+I was thrown off of the
+island unceremoniously.
+Not very nice...<NOD<CLR
+Men who treat women without
+respect are barbarians.<NOD<CLR
+Anyway, that aside.<NOD<CLR
+I'm presently building a
+rocket for you.<NOD
+It will take you all the way up
+to the Doctor's throne.<NOD
+But evidently I don't have
+enough of the parts.<NOD<CLO
+<ITJ0018:0202<ITJ0023:0203<EVE0201
+
+#0201
+<ITJ0018:0202<ITJ0023:0203
+<MSG<FAC0022
+At the moment I need a
+Booster.<NOD
+I wonder if anyone would
+have a spare handy...<NOD<END
+
+#0202
+<MSG<CLR
+.....<NOD<CLR
+Oh!<NOD 
+I need to borrow that
+Booster from you.<NOD<CLR
+<FAC0000<GIT1018Momorin takes the Booster v0.8.<NOD<GIT0000<CLR<FAC0022
+There are still not enough of
+the necessary parts to
+complete the rocket.<NOD<CLO
+<IT-0018<EQ-0001<FL-0742
+<FL+1106
+<EVE0204
+
+#0203
+<MSG<CLR
+.....<NOD<CLR
+Oh!<NOD
+I'm going to borrow that.<NOD<CLR
+<FAC0000<GIT1023Momorin takes the Booster v2.0.<NOD<GIT0000<CLR<FAC0022
+There are still not enough of
+the necessary parts to
+complete the rocket.<NOD<CLO
+<IT-0023<EQ-0032<FL-0743
+<FL+1106
+<EVE0204
+
+#0204
+<KEY<MSG<FAC0022
+Are you busy now?<YNJ0205<CLR
+Really?<NOD
+I see...<NOD<END
+
+#0205
+<KEY<FL+1101<MSG
+That's a good answer.<NOD
+To be expected from a hero.<NOD<CLR
+For the now, wear this.<NOD<FAC0000
+<GIT1024<IT+0024<EQ+0064<FL+1020<MSG
+<CMU0010Obtained the Mimiga Mask.<WAI0160<NOD<RMU<CLO<GIT0000
+<MSG<FAC0022
+It suits you.<NOD
+Even if it's a tad too large...<NOD<CLR
+The Mimiga working the
+Plantation are forbidden from
+speaking with any humans.<NOD
+With that outfit on, you should
+be all set to chat with them.<NOD<CLR
+Got it?<NOD<EVE0207
+
+#0206
+<KEY<MSG<FAC0022<CLR
+Next thing, look for the man
+named Itoh.<NOD<CLR
+He's an incredible coward,
+so I doubt he went very far.<NOD<END
+
+#0207
+<MSG<FL+1027<FL+1028<FAC0022
+There's a minimum amount
+of electricity needed in order
+for me to finish the rocket.<NOD
+If I can get one of those
+sprinklers in the Plantation, 
+that might be just enough.<NOD<CLR
+Please do whatever it takes
+to get a sprinkler.<NOD<END
+
+#0208
+<KEY<MSG<FAC0022
+There's a minimum amount
+of electricity needed in order
+for me to finish the rocket.<NOD
+If anything is going to have
+electricity around here it'll be
+those sprinklers outside.<NOD<CLR
+Please do whatever it takes
+to get a sprinkler.<NOD<END
+
+#0209
+<KEY<MSG<FAC0022
+Thanks for the help.<NOD<CLR<FAC0000<GIT1028
+Show her a Broken Sprinkler.<NOD<CLR<FAC0022
+Hm...<NOD<CLR
+This sprinkler's batteries
+are no good.<NOD<GIT0000
+I can't use it in the
+condition this one is in.<NOD<END
+
+#0210
+<KEY<FL+1102<FL+1107<MSG<FAC0022
+Welcome back.<NOD<CLR<FAC0000
+<GIT1029<IT-0029Show her a Sprinkler.<NOD<CLR<FAC0022
+Let's have a look...<NOD<CLR
+More than enough battery
+power in this one.<NOD
+I think this might work.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
+<MSG
+Next, can you look for a man
+by the name of Itoh?<NOD<CLR
+He conceitedly calls himself a
+"famous technician".<NOD<CLR
+But he's a big, fat coward.<NOD
+Itoh was the first to run from
+the Doctor, but I don't think 
+he got very far from here.<NOD<END
+
+#0211
+<MSG<FL+1103<FAC0022
+Welcome back.<NOD<CLR
+Did you find Itoh?<NOD<CLR
+<FAC0000<GIT1027<IT-0027Give her the Controller.<NOD<CLR<FAC0022
+There's no doubt about it.<NOD
+Itoh made this Controller.<NOD<GIT0000<CLR
+Hm...<NOD<CLR
+Without him in here helping
+me it'll be difficult to
+perform the analysis.<NOD<CLR
+Well, I'll do what I can.<NOD<EVE0212
+
+
+#0212
+<KEY<MSG<FAC0022
+You've done well.<NOD<CLR
+This process will take some
+time before it's finished.<NOD
+Take a rest down below,
+there's a bed for you.<NOD<END
+
+#0250
+
+#0280
+<KEY<MSG
+Would you like to rest?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+.....<NOD<CLO
+<WAI0050<FLJ1103:0281
+<LI+1000<SOU0020<MYD0002<MSG
+You feel rested.<NOD<CLO<CMU0002<FAI0004<END
+
+#0281
+<FL-1103<FL+1105<FL+1030<FL+1031<FL+1032<FL+1033<FL+1004<FL-1038<FL+1039
+<FL-1026<FL+1036
+<MSG
+.....<NOD<CLO<DNP0200<DNP0350
+<LI+1000<SOU0020<MYD0002<MSG
+You're well rested.<NOD<CLO<CMU0002<FAI0004<END
+
+
+#0350
+<KEY<MSG
+It's a rocket...<NOD<END
+

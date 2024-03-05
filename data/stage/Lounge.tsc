@@ -1,0 +1,109 @@
+ 
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0002<TRA0056:0092:0024:0082
+
+#0200
+<KEY
+<FLJ1020:0201
+<EVE0299
+
+#0201
+<KEY
+<FLJ1121:0203
+<ITJ0028:0202
+<MSG
+These are sprinklers.<NOD
+They break pretty frequently.
+We end up having a lot of
+replacements around for them.<NOD<END
+
+#0202
+<KEY<MSG<FL+1121
+It broke again...<NOD<CLR<GIT1028<IT-0028
+Gave him the Broken Sprinkler.<NOD<GIT0000
+<KEY<MSG
+Use this one more carefully.<NOD<DNP0280<GIT1029<IT+0029<CLR
+<CMU0010Obtained the Sprinkler.<WAI0160<NOD<RMU<END
+
+#0203
+<KEY<MSG
+Could this really be the last few seeds
+that we need to grow?<NOD
+We barely had enough sprinklers...<NOD<END
+
+
+#0210
+<KEY
+<FLJ1033:0212
+<FLJ1020:0211
+<EVE0299
+
+#0211
+<MSG
+Indeed, surface robots did attack
+this island.<NOD
+In fact, some of my friends were
+killed that time...<NOD
+Even so, a few of those robots 
+seemingly understood us.<NOD
+I believe that these robots
+possessed hearts and souls...<NOD<END
+
+#0212
+<MSG
+Damn that Doctor!<NOD<CLR
+How dare he take such a small
+child by force!?!<NOD
+I wish I was a little bit younger...<NOD
+How exasperating...<NOD<END
+
+#0220
+<KEY<FLJ1020:0221
+<EVE0299
+#0221
+<MSG
+I don't believe that Doctor!<NOD<CLR
+Robots?!? 
+WHATEVER!!!<NOD
+I'm not scared not even a tiny bit...<NOD<END
+
+#0230
+<KEY<FLJ1020:0231
+<EVE0299
+#0231
+<MSG
+I'm exhausted...<NOD<END
+
+#0250
+<KEY<MYB0000<MSG
+Yo...<NOD<CLR
+Haven't we met somewhere before?<NOD
+It must've been at Mimiga Village.<NOD
+That witch Misery brought me here...<NOD
+...I really dislike farming.<NOD<CLR
+Gonna go clear my head with some
+fishing for a little bit.<NOD<CLR
+Do you like to fish?<NOD
+If there's another chance, maybe I'll
+bump into you again?<NOD<CLO
+<ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
+<ANP0250:0000:0002<WAI0020
+<ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020
+<DNP0250<ANP0100:0000:0000<SOU0011<FL+1120<FL+1021<END
+
+
+#0280
+#0299
+<PRI<MSG
+.....<NOD<END
